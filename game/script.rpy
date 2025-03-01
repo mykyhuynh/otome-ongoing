@@ -3,7 +3,7 @@
 label start:
     scene bg room
     show eileen happy
-    Eileen "Suhhh dude"
+    e "Suhhh dude"
     jump chapter1_start
     return
 
